@@ -12,7 +12,7 @@ namespace Intro_to_Git
         {
             Console.WriteLine("Added Milk");
 
-            Console.WriteLine("Added Bread");
+            
         }
     }
 }
